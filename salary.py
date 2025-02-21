@@ -27,4 +27,6 @@ print (f"remainder: {remainder}")
 yearly_estimation = (rent + electricity) * 12
 print (f"yearly estimate: {yearly_estimation}")
 
+salary_powered_by_two = salary ** 2 
+print (f"salary powered by two: {salary_powered_by_two}")
 
