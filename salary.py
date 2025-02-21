@@ -24,4 +24,7 @@ print (f"combined spendings: {combined_bills}")
 remainder = salary - combined_bills
 print (f"remainder: {remainder}")
 
+yearly_estimation = (rent + electricity) * 12
+print (f"yearly estimate: {yearly_estimation}")
+
 
