@@ -32,3 +32,6 @@ print (f"salary powered by two: {salary_powered_by_two}")
 
 additional_savings = float(input("enter additional saving: "))
 print (f"additional savings divided by savings: {additional_savings/saving}")
+
+print ("thank you for your time nabiha hope you enjoyed your saving script!")
+
