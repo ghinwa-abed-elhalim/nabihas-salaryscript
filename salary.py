@@ -10,3 +10,12 @@ print(f"savings percentage: {per_savings}")
 print(f"rent percentage: {per_rent}")
 print(f"electricity percentage: {per_electricity}")
 
+saving = float(per_savings) / 100 * salary
+rent = float(per_rent) / 100 * salary
+electricity = float(per_electricity) / 100 * salary
+
+print (f"the saving amount: {saving}")
+print (f"the rent amount: {rent}")
+print (f"the electricity amount: {electricity}")
+
+
