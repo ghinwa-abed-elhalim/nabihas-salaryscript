@@ -21,4 +21,7 @@ print (f"the electricity amount: {electricity}")
 combined_bills = saving + rent + electricity
 print (f"combined spendings: {combined_bills}")
 
+remainder = salary - combined_bills
+print (f"remainder: {remainder}")
+
 
