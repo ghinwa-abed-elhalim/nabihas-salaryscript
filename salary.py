@@ -18,4 +18,7 @@ print (f"the saving amount: {saving}")
 print (f"the rent amount: {rent}")
 print (f"the electricity amount: {electricity}")
 
+combined_bills = saving + rent + electricity
+print (f"combined spendings: {combined_bills}")
+
 
