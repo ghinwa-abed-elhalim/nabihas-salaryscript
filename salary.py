@@ -30,3 +30,5 @@ print (f"yearly estimate: {yearly_estimation}")
 salary_powered_by_two = salary ** 2 
 print (f"salary powered by two: {salary_powered_by_two}")
 
+additional_savings = float(input("enter additional saving: "))
+print (f"additional savings divided by savings: {additional_savings/saving}")
